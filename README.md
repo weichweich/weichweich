@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [KILTprotocol](https://www.kilt.io/) which will give users controll over their own data
-- 🌱 I’m currently learning rust, blockchain technology
-
+- 🔭 I’m currently working on [KILTprotocol](https://www.kilt.io/) which will give users control over their own data
+- ⚡ I like working on open source projects!
+  * Made [transaction payment in substrate more generic](https://github.com/paritytech/substrate/pull/6912)
+  * Added a [triangle drawing implementation](https://github.com/embedded-graphics/embedded-graphics/pull/86) to [embedded-graphics](https://github.com/embedded-graphics/embedded-graphics)
 
 <!--
 **weichweich/weichweich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
